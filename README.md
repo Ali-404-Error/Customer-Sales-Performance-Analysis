@@ -195,6 +195,8 @@ The Tableau dashboard provides:
 - Interactive **Order Date**, **Region**, and **Category** filters
 - Interactive chart-based filtering
 
+![Superstore Sales & Profitability Dashboard](Customer%20Executive%20Dashboard.png)
+
 ---
 
 ## 🧠 Skills Demonstrated
@@ -214,21 +216,8 @@ The Tableau dashboard provides:
 
 ---
 
-## 📊 Dashboard
-
-The interactive Tableau dashboard provides a consolidated view of:
-
-- Key performance indicators
-- Sales & Profit trends over time
-- Category performance
-- Regional performance
-- Identifying high revenue that doesn't commit profit through sub-categories 
-- Interactive filtering by region, order date, and category
-
-  ![Superstore Sales & Profitability Dashboard](Customer%20Executive%20Dashboard.png)
-
----
-
 ## 📥 Tableau Workbook
+
+The complete Tableau workbook contains supporting analysis & interactive visualization.
 
 [Download the Tableau Workbook](Superstore_Sales_Profitability_Analysis.twbx)
