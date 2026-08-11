@@ -214,7 +214,7 @@ The Tableau dashboard provides:
 
 ---
 
-## Dashboard
+## 📊 Dashboard
 
 The interactive Tableau dashboard provides a consolidated view of:
 
@@ -225,4 +225,10 @@ The interactive Tableau dashboard provides a consolidated view of:
 - Identifying high revenue that doesn't commit profit through sub-categories 
 - Interactive filtering by region, order date, and category
 
+  ![Superstore Sales & Profitability Dashboard](Customer%20Executive%20Dashboard.png)
+
 ---
+
+## 📥 Tableau Workbook
+
+[Download the Tableau Workbook](Superstore_Sales_Profitability_Analysis.twbx)
