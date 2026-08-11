@@ -213,11 +213,3 @@ The Tableau dashboard provides:
 - Business Insights & Recommendations
 
 ---
-
-## 📁 Project Structure
-
-```text
-Customer-Sales-Performance-Analysis/
-│
-├── Customer & Sales Performance Analysis.twbx
-└── README.md
