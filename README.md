@@ -213,3 +213,18 @@ The Tableau dashboard provides:
 - Business Insights & Recommendations
 
 ---
+
+## Dashboard
+
+The interactive Tableau dashboard provides a consolidated view of:
+
+- Key performance indicators
+- Sales & Profit trends over time
+- Category performance
+- Regional performance
+- Identifying high revenue that doesn't commit profit through sub-categories 
+- Interactive filtering by region, order date, and category
+
+![Customer Executive Dashboard](Dashboard (2).png)
+
+---
